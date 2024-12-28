@@ -6,7 +6,7 @@
 
 ## Ссылка на проект
 
-[Посмотреть проект](https://ashenoooone.github.io/typing-speed-tester/)
+[Посмотреть проект](https://typing-speed-testers.vercel.app)
 
 ## Режимы тренажера
 
